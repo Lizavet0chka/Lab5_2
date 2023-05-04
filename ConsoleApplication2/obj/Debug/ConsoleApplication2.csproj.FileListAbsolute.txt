@@ -5,3 +5,10 @@ D:\Desktop\Навчання\1 Курс(і хоч би не останній) 2 �
 D:\Desktop\Навчання\1 Курс(і хоч би не останній) 2 семестр\ПАЛМ\Лабораторна 5\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
 D:\Desktop\Навчання\1 Курс(і хоч би не останній) 2 семестр\ПАЛМ\Лабораторна 5\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 D:\Desktop\Навчання\1 Курс(і хоч би не останній) 2 семестр\ПАЛМ\Лабораторна 5\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\Yelyzaveta\Source\Repos\Lab5_2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\Yelyzaveta\Source\Repos\Lab5_2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\Yelyzaveta\Source\Repos\Lab5_2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+C:\Users\Yelyzaveta\Source\Repos\Lab5_2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yelyzaveta\Source\Repos\Lab5_2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Yelyzaveta\Source\Repos\Lab5_2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\Yelyzaveta\Source\Repos\Lab5_2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

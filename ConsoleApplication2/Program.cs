@@ -4,6 +4,7 @@ using System.Collections.Specialized;
 using System.IO;
 using System.Reflection;
 using System.Text.RegularExpressions;
+using System.Text;
 
 namespace ConsoleApplication2
 {
@@ -85,7 +86,7 @@ namespace ConsoleApplication2
                 double mathematik = Char.GetNumericValue(oneSt.mathematicsMark);
                 double physik = Char.GetNumericValue(oneSt.physicsMark);
                 double informatik = Char.GetNumericValue(oneSt.informaticsMark);
-                if (mathematik < 4 || physik < 4 || informatik<4)
+                if (mathematik < 3 || physik < 3 || informatik<3)
                 {
                     oneSt.scholarship = 0;
                     Console.WriteLine($"{oneSt.surName} {oneSt.mathematicsMark} {oneSt.physicsMark} {oneSt.informaticsMark}");
@@ -96,8 +97,10 @@ namespace ConsoleApplication2
         }
         public static void Main(string[] args)
         {
+            Console.OutputEncoding = Encoding.UTF8;
             List<Student> students = ReadData();
             SaveData(var_5(students));
+            Console.ReadKey();
         }
     }
 }
